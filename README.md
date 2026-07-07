@@ -41,9 +41,15 @@ A market interest rate is made up of three parts: the risk-free rate (proxied by
 - **Derivative assets** are negatively correlated with T-bill yields, consistent with discounted-cash-flow theory: a higher risk-free rate lowers the present value of future cash flows.
 - On the balance sheet, **liabilities grew faster than equity** in high-yield periods (notably 2018 and 2022), while asset growth slowed.
 
-## Visuals
+## Visuals 
+
+## Google Colab - Heatmap 
 
 <img width="865" height="772" alt="Screenshot 2026-07-07 at 11 16 50 AM" src="https://github.com/user-attachments/assets/230a9b81-2cf4-4d43-9fa6-a227280dac5f" />
+
+## Tableau 
+<img width="1710" height="1107" alt="Screenshot 2026-07-07 at 11 37 48 AM" src="https://github.com/user-attachments/assets/49d68615-4d41-4b7a-a11b-fbba0c17fb0a" />
+
 
 ## Tools
 
