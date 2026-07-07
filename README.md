@@ -49,9 +49,6 @@ A market interest rate is made up of three parts: the risk-free rate (proxied by
 
 Python (pandas, NumPy, Matplotlib, seaborn) in Google Colab · Tableau · Statistics Canada & Bank of Canada public data
 
-## If I Did This Today
-
-Pull the source data directly via the StatsCan and Bank of Canada APIs instead of manual CSV downloads, add CPI as a variable to more cleanly separate the "inflation premium" from the risk-free rate in the model, and publish the workbook to Tableau Public so GLOCAL has a live, shareable link rather than a static file.
 
 ---
 
