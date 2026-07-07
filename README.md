@@ -52,5 +52,5 @@ Python (pandas, NumPy, Matplotlib, seaborn) in Google Colab · Tableau · Statis
 
 ---
 
-**Bulgan Damdindorj** · Vancouver, BC · MBA, University Canada West (2026)
+**Bulgan Damdindorj** · Vancouver, BC · MBA
 [LinkedIn](https://www.linkedin.com/in/bulgan-damdindorj-915451289/) · [GitHub](https://github.com/bulgandamdindorj)
