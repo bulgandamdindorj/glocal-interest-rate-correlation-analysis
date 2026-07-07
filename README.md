@@ -45,9 +45,6 @@ A market interest rate is made up of three parts: the risk-free rate (proxied by
 
 <img width="865" height="772" alt="Screenshot 2026-07-07 at 11 16 50 AM" src="https://github.com/user-attachments/assets/230a9b81-2cf4-4d43-9fa6-a227280dac5f" />
 
-> `![Correlation heatmap](assets/correlation_heatmap.png)`
-> `![Tableau dashboard — Operating Profit vs 1yr T-Bill](assets/tableau_operating_profit.png)`
-
 ## Tools
 
 Python (pandas, NumPy, Matplotlib, seaborn) in Google Colab · Tableau · Statistics Canada & Bank of Canada public data
